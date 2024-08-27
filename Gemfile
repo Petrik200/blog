@@ -59,3 +59,5 @@ end
 gem "devise", "~> 4.9"
 gem "tailwindcss-rails", "~> 2.7"
 gem "pg", "~> 1.5"
+
+gem "net-protocol", "~> 0.2.2"
