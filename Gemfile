@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
-gem "rails", "~> 7.2.0"
+gem "rails", "~> 7.2.1"
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 # Use mysql as the database for Active Record
@@ -57,7 +57,5 @@ group :test do
 end
 
 gem "devise", "~> 4.9"
-
 gem "tailwindcss-rails", "~> 2.7"
-
 gem "pg", "~> 1.5"
